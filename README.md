@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://freeapps.ir">
-    <img src="https://raw.githubusercontent.com/psycho1767/freeapps.ir/main/logo.svg" width="100" alt="freeapps.ir Logo">
+    <img src="/psycho1767/freeapps.ir/raw/main/logo.svg" width="100" style="max-width: 100%;" alt="freeapps.ir Logo">
   </a>
   <h1>freeapps.ir</h1>
   <p>Free, secure, and open-source online tools for everyone.</p>
