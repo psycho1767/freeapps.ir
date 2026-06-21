@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="logo.svg" width="100" alt="freeapps.ir Logo">
+  <a href="https://freeapps.ir">
+    <img src="https://raw.githubusercontent.com/psycho1767/freeapps.ir/main/logo.svg" width="100" alt="freeapps.ir Logo">
+  </a>
   <h1>freeapps.ir</h1>
   <p>Free, secure, and open-source online tools for everyone.</p>
   <p><b>ابزارهای آنلاین رایگان، امن و متن‌باز برای همه.</b></p>
