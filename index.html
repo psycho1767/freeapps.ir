@@ -659,7 +659,8 @@
                 feat_p2p: "Peer-to-Peer",
                 feat_screen: "Screen Sharing",
                 feat_bg: "Virtual Backgrounds",
-                feat_chat: "In-meeting Chat"
+                feat_chat: "In-meeting Chat",
+                title: "freeapps.ir - Free Online Tools"
             },
             fa: {
                 badge: "تمام ابزارها ۱۰۰٪ رایگان هستند",
@@ -681,7 +682,8 @@
                 feat_p2p: "همتا به همتا",
                 feat_screen: "اشتراک‌گذاری صفحه",
                 feat_bg: "پس‌زمینه مجازی",
-                feat_chat: "چت در جلسه"
+                feat_chat: "چت در جلسه",
+                title: "freeapps.ir - ابزارهای آنلاین رایگان"
             }
         };
 
@@ -695,6 +697,7 @@
             document.documentElement.setAttribute('dir', dir);
             document.documentElement.setAttribute('lang', lang);
             document.getElementById('langIcon').textContent = lang === 'en' ? 'FA' : 'EN';
+            document.title = translations[lang].title;
             document.querySelectorAll('[data-i18n]').forEach(el => {
                 const key = el.getAttribute('data-i18n');
                 if (translations[lang][key]) {
