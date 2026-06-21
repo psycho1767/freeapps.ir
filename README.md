@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://freeapps.ir">
-    <img src="/psycho1767/freeapps.ir/raw/main/logo.svg" width="100" style="max-width: 100%;" alt="freeapps.ir Logo">
-  </a>
+
+  <img src="logo.svg" width="100" />
+  
   <h1>freeapps.ir</h1>
   <p>Free, secure, and open-source online tools for everyone.</p>
   <p><b>ابزارهای آنلاین رایگان، امن و متن‌باز برای همه.</b></p>
@@ -21,10 +21,10 @@
 
 ### Services
 
-| Service | URL | Description |
-|---------|-----|-------------|
+| Service                    | URL                                              | Description                                                                                                   |
+| -------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | **Encrypted File Sharing** | [upload.freeapps.ir](https://upload.freeapps.ir) | Share files securely with end-to-end AES-256 encryption. Set passwords, expiration dates, and share via link. |
-| **Video Meetings** | [meet.freeapps.ir](https://meet.freeapps.ir) | Start instant video calls with screen sharing, chat, virtual backgrounds, and peer-to-peer WebRTC. |
+| **Video Meetings**         | [meet.freeapps.ir](https://meet.freeapps.ir)     | Start instant video calls with screen sharing, chat, virtual backgrounds, and peer-to-peer WebRTC.            |
 
 ### Features
 
@@ -70,10 +70,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### خدمات
 
-| سرویس | آدرس | توضیحات |
-|-------|------|---------|
+| سرویس                              | آدرس                                             | توضیحات                                                                              |
+| ---------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | **اشتراک‌گذاری فایل رمزنگاری‌شده** | [upload.freeapps.ir](https://upload.freeapps.ir) | اشتراک‌گذاری امن فایل‌ها با رمزنگاری E2E AES-256. رمز عبور و تاریخ انقضا تنظیم کنید. |
-| **جلسات ویدیویی** | [meet.freeapps.ir](https://meet.freeapps.ir) | تماس ویدیویی فوری با اشتراک‌گذاری صفحه، چت، پس‌زمینه مجازی و WebRTC همتا به همتا. |
+| **جلسات ویدیویی**                  | [meet.freeapps.ir](https://meet.freeapps.ir)     | تماس ویدیویی فوری با اشتراک‌گذاری صفحه، چت، پس‌زمینه مجازی و WebRTC همتا به همتا.    |
 
 ### امکانات
 
