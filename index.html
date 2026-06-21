@@ -166,12 +166,14 @@
             white-space: nowrap;
         }
 
-        .hero-badge span {
+        .hero-badge .dot {
             width: 8px;
             height: 8px;
+            min-width: 8px;
             border-radius: 50%;
             background: #00d2d3;
             animation: pulse 2s infinite;
+            flex-shrink: 0;
         }
 
         @keyframes pulse {
@@ -571,7 +573,7 @@
 
     <section class="hero">
         <div class="hero-badge">
-            <span></span>
+            <span class="dot"></span>
             <span data-i18n="badge">All tools are 100% free</span>
         </div>
         <h1 data-i18n="hero_title">Free tools for the <span class="gradient" data-i18n="hero_title_gradient">modern web</span></h1>
